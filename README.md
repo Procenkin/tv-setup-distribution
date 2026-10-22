@@ -3,7 +3,7 @@
 Здесь публикуются готовые сборки приложения «Настройка ТВ»: оно убирает рекламу и слежку производителя
 с Android TV и ставит чистый домашний экран. Без ИИ-агентов, терминала и компьютерных навыков.
 
-**Скачать:** http://45.9.19.179/tv-setup/ — страница продукта с инструкциями.
+**Скачать:** https://tv.pereplet.space/ — страница продукта с инструкциями.
 Те же файлы — в разделе [Releases](https://github.com/Procenkin/tv-setup-distribution/releases),
 последняя версия — [здесь](https://github.com/Procenkin/tv-setup-distribution/releases/latest).
 
